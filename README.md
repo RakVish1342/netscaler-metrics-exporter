@@ -1,6 +1,12 @@
 Exporter for NetScaler Stats
 ===
 
+
+**NOTE: This repository is deprecated and represents the repository's state on my last commit. It is actively maintained at:** https://github.com/citrix/citrix-adc-metrics-exporter
+---
+
+
+
 Description:
 ---
 
